@@ -1,19 +1,90 @@
-{
-    "kirjat": [
-      {
-        "nimi": "Harry Potter ja viisasten kivi",
-        "kirjoittaja": "J.K. Rowling",
-        "julkaisuvuosi": 1997
-      },
-      {
-        "nimi": "Pieni prinssi",
-        "kirjoittaja": "Antoine de Saint-Exupéry",
-        "julkaisuvuosi": 1943
-      },
-      {
-        "nimi": "Linnunradan käsikirja liftareille",
-        "kirjoittaja": "Douglas Adams",
-        "julkaisuvuosi": 1979
-      }
-    ]
-  }
+[
+    {
+        "question": "The correct answer is 2",
+        "Choices": [
+            {
+                "text": "Vastaus 1", 
+                "value" : 0
+            },
+            {
+                "text": "Vastaus 2", 
+                "value" : 1
+            },
+            {
+                "text": "Vastaus 3", 
+                "value" : 0
+            },
+            {
+                "text": "Vastaus 4", 
+                "value" : 0
+            }
+            
+        ]
+    },
+    {
+        "question": "The correct answer is 4",
+        "Choices": [
+            {
+                "text": "Vastaus 1", 
+                "value" : 0
+            },
+            {
+                "text": "Vastaus 2", 
+                "value" : 0
+            },
+            {
+                "text": "Vastaus 3", 
+                "value" : 0
+            },
+            {
+                "text": "Vastaus 4", 
+                "value" : 1
+            }
+            
+        ]
+    },
+    {
+        "question": "The correct answer is 1",
+        "Choices": [
+            {
+                "text": "Vastaus 1", 
+                "value" : 1
+            },
+            {
+                "text": "Vastaus 2", 
+                "value" : 0
+            },
+            {
+                "text": "Vastaus 3", 
+                "value" : 0
+            },
+            {
+                "text": "Vastaus 4", 
+                "value" : 0
+            }
+            
+        ]
+    },
+    {
+        "question": "The correct answer is 3",
+        "Choices": [
+            {
+                "text": "Vastaus 1", 
+                "value" : 0
+            },
+            {
+                "text": "Vastaus 2", 
+                "value" : 0
+            },
+            {
+                "text": "Vastaus 3", 
+                "value" : 1
+            },
+            {
+                "text": "Vastaus 4", 
+                "value" : 0
+            }
+            
+        ]
+    }
+]
