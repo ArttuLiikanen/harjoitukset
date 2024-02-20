@@ -1,6 +1,7 @@
 [
     {
         "question": "The correct answer is 2",
+        "id": "1",
         "Choices": [
             {
                 "text": "Vastaus 1", 
@@ -23,6 +24,7 @@
     },
     {
         "question": "The correct answer is 4",
+        "id": "2",
         "Choices": [
             {
                 "text": "Vastaus 1", 
@@ -45,6 +47,7 @@
     },
     {
         "question": "The correct answer is 1",
+        "id": "3",
         "Choices": [
             {
                 "text": "Vastaus 1", 
@@ -67,6 +70,7 @@
     },
     {
         "question": "The correct answer is 3",
+        "id": "4",
         "Choices": [
             {
                 "text": "Vastaus 1", 
@@ -83,8 +87,7 @@
             {
                 "text": "Vastaus 4", 
                 "value" : 0
-            }
-            
+            } 
         ]
     }
 ]
