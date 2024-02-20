@@ -1,0 +1,19 @@
+{
+    "kirjat": [
+      {
+        "nimi": "Harry Potter ja viisasten kivi",
+        "kirjoittaja": "J.K. Rowling",
+        "julkaisuvuosi": 1997
+      },
+      {
+        "nimi": "Pieni prinssi",
+        "kirjoittaja": "Antoine de Saint-Exupéry",
+        "julkaisuvuosi": 1943
+      },
+      {
+        "nimi": "Linnunradan käsikirja liftareille",
+        "kirjoittaja": "Douglas Adams",
+        "julkaisuvuosi": 1979
+      }
+    ]
+  }
